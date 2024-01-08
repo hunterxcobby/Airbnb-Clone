@@ -1,0 +1,29 @@
+{
+   "data" : [{
+        "name": "Mary",
+        "age": 22,
+        "course": [
+            "Maths",
+            "Science",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Mary",
+        "age": 22,
+        "course": [
+            "Maths",
+            "Science",
+            "Computer Science"
+        ]
+    }, 
+    {
+        "name": "Mary",
+        "age": 22,
+        "course": [
+            "Maths",
+            "Science",
+            "Computer Science"
+        ]
+    }]
+}
